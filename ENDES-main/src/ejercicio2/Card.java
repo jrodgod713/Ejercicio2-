@@ -1,7 +1,7 @@
 package ejercicio2;
 
 public class Card {
-int messi;
+
 	public String suit;
 	public String value;
 	//Creación de cartas con variables para el tipo y el número
