@@ -11,8 +11,6 @@ public class Card {
 		this.value = value;
 	}
 	//Uniendo el tipo y el número
-	
-	//23
 	public String toString () {
 		//
 		return (this.suit+"-"+this.value);
